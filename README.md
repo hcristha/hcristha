@@ -1,6 +1,6 @@
 ## Olá, eu sou a Helen Cristhina!
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/hcristha/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcristha&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcristha&layout=compact&langs_count=16&theme=cobalt"/>
@@ -14,6 +14,6 @@
  
  ## 
   
- <div align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/hcristha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
