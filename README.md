@@ -1,5 +1,6 @@
 ## Hey!
 I'm Helen Cristhina, Junior Software Developer, working over JavaScript ecosystem.
+Student of the ProgramadoBR course.
 
 <div align="center" style="display: inline_block"><br>
   Currently learning: <a href="https://www.linkedin.com/in/hcristha/"><img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a><br>
