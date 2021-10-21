@@ -12,8 +12,8 @@ Student of the ProgramadoBR course.
  
 <div align="center" >
 
-[![ARTHUR PC's github stats](https://github-readme-stats.vercel.app/api?username=hcristha&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcristha&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+![Helen Crisrhina A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hcristha&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcristha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;">
   <a href="https://www.linkedin.com/in/hcristha/">
     <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
