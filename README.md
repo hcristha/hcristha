@@ -6,12 +6,6 @@ I'm Helen Cristhina, Junior Software Developer, working over JavaScript ecosyste
   My favourites tools: <a href="https://www.linkedin.com/in/hcristha/"><img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a><br>
 </div>
-
- ## 
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/hcristha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
  
  #
  
@@ -20,4 +14,16 @@ I'm Helen Cristhina, Junior Software Developer, working over JavaScript ecosyste
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcristha&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcristha&layout=compact&langs_count=16&theme=cobalt"/>
   </a>
+</div>
+
+
+<div align="center" >
+
+[![ARTHUR PC's github stats](https://github-readme-stats.vercel.app/api?username=hcristha&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcristha&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+<div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;">
+  <a href="https://www.linkedin.com/in/hcristha/">
+    <img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
+  </a>
+</div>
 </div>
